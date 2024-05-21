@@ -63,8 +63,12 @@
     <a href="https://github.com/NicoMaker/Lettura_Dati_Raspberry" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_Raspberry&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
+    <a href="https://github.com/NicoMaker/Password" align="right">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Password&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+
 
 
 
