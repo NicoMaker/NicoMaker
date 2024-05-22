@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Nicola
+## Hi there 👋 
+## My name is Nicola
 
 ### Skills
 
