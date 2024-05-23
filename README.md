@@ -1,4 +1,5 @@
-## Hi there 👋 
+## Hi there 👋
+
 ## My name is Nicola
 
 ### Skills
@@ -59,14 +60,11 @@
   </a>
 </p>
 
-
-
 ### Badges
 
 <a href="https://github.com/NicoMaker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-# Link siti 
+### Link siti
 
 - [Pagina genrale siti](https://paginageneralesiti.netlify.app/)
 - [Giri in Bici](https://giri-in-bici.netlify.app/)
