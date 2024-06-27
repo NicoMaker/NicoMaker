@@ -40,10 +40,6 @@
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="border: none;" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" style="border: none;" />
-  </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" style="border: none;" />
   </a>
