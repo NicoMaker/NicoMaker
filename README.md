@@ -58,12 +58,13 @@
 </p>
 
 ### Badges
-
+<p align="left">
 <a href="https://github.com/NicoMaker">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
   
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&theme=vision-friendly-dark" />
+</p>
 
 ## Commit
 
@@ -79,6 +80,20 @@
 
 - [Pagina Generale Siti](https://paginageneralesiti.netlify.app/)
 - [Giri in Bici](https://giri-in-bici.netlify.app/)
+
+## Profile Views
+
+<p align="center">
+  <div id="header" align="center">
+    <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=orange" alt="Profile Views" />
+  </div>
+</p>
+
+## Gioco del Serpente
+
+<p align="center">
+ <img width="1000" src="Img/github-snake.svg" alt="snake"/>
+</p>
 
 <b>Top Repositories</b>
 
@@ -124,19 +139,3 @@
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br />
-
-
-## Profile Views
-
-<p align="center">
-  <div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=orange" alt="Profile Views" />
-  </div>
-</p>
-
-## Gioco del Serpente
-
-<p align="center">
- <img width="1000" src="img/github-snake.svg" alt="snake"/>
-</p>
