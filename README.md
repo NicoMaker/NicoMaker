@@ -78,8 +78,8 @@
 
 ### Link siti
 
-- [Pagina Generale Siti](https://paginageneralesiti.netlify.app/)
-- [Giri in Bici](https://giri-in-bici.netlify.app/)
+- **[Pagina Generale Siti](https://paginageneralesiti.netlify.app/)**
+- **[Giri in Bici](https://giri-in-bici.netlify.app/)**
 
 ## Profile Views
 
