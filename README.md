@@ -1,8 +1,6 @@
-## Hi there 👋
+# 👋 Ciao! Sono Nicola
 
-## My name is Nicola
-
-### Skills
+### 🚀 Competenze Tecniche
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -46,56 +44,59 @@
   </a>
 </p>
 
-### Socials
+### 🌐 Social
 
 <p align="left">
   <a href="https://www.github.com/NicoMaker" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.komoot.com/it-it/user/1372754001803" target="_blank" rel="noreferrer">
-    <img src="https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic=w240-h480-rw" width="32" height="32" />
+    <img src="https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic=w240-h480-rw" width="32" height="32" alt="Komoot" />
   </a>
 </p>
 
-### Badges
+### 🏆 Badge e Statistiche
+
 <p align="left">
-<a href="https://github.com/NicoMaker">
+  <a href="https://github.com/NicoMaker">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-  
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&theme=vision-friendly-dark" />
+  </a>
+  <br />
+
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&theme=vision-friendly-dark" alt="Compact Top Languages" width="400" height="200"/>
 </p>
 
-## Commit
+### 📊 Commit e Contributi
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=NicoMaker&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" />
+  <img src="https://streak-stats.demolab.com?user=NicoMaker&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Streak Stats" width="800" height="220" />
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="600" height="200" />
 </p>
 
-### Link siti
+### 🌐 Link Siti
 
 - **[Pagina Generale Siti](https://paginageneralesiti.netlify.app/)**
 - **[Giri in Bici](https://giri-in-bici.netlify.app/)**
 
-## Profile Views
+### 👀 Visualizzazioni del Profilo
 
 <p align="center">
-  <div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=orange" alt="Profile Views" />
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=orange" alt="Profile Views" />
 </p>
 
-## Gioco del Serpente
+### 🐍 Gioco del Serpente
 
 <p align="center">
- <img width="1000" src="Img/github-snake.svg" alt="snake"/>
+  <img src="Img/github-snake.svg" alt="snake" width="1000" />
 </p>
 
-<b>Top Repositories</b>
+### 🔝 Repository Principali
 
 <div width="100%" align="center">
     <a href="https://github.com/NicoMaker/Giri-in-bici" align="left">
