@@ -55,7 +55,7 @@
   </a>
 </p>
 
-### 🏆 Badge e Statistiche
+### 🏆 Badge e Statistiche 📊
 
 <p align="left">
   <a href="https://github.com/NicoMaker">
