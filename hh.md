@@ -9,10 +9,8 @@ Se il problema persiste, prova a testare il link direttamente su un dispositivo 
 
 Ecco il codice aggiornato:
 
-```markdown
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
 - **Telefono:** [Chiamata nel cellulare](tel:+393337024320)
 - **WhatsApp:** [Chatta con me](https://wa.me/393337024320?text=Info%20da%20Github)
-```
 
 Se continui ad avere difficoltà, fammi sapere, cercherò di aiutarti ulteriormente!
