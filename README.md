@@ -58,7 +58,7 @@
 ### 📩 Contatti
 
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
-- **Telefono:** [Clicca per chiamarmi](tel:+393337024320)
+- **Telefono:** [+39 333 702 4320](tel:+393337024320)  
 - **WhatsApp:** [Chatta con me](https://wa.me/393337024320?text=Info%20da%20Github)
 
 ### 🏆 Badge e Statistiche 📊
@@ -73,15 +73,3 @@
 
 - **[Pagina Generale Siti](https://paginageneralesiti.netlify.app/)**
 - **[Giri in Bici](https://giri-in-bici.netlify.app/)**
-
-  <style>
-    .Icona {
-  border: none;
-  background-color: transparent;
-  cursor: pointer;
-}
-.Immagineicona {
-  width: 32px;
-  height: 32px;
-}
- </style>
