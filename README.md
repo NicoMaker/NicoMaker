@@ -120,6 +120,15 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Concessionaria" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Concessionaria&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Concessionaria" width="100%">
+    </a>
+    <a href="https://github.com/NicoMaker/PokeApi" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=PokeApi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=0" alt="PokeApi" width="100%">
+    </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://github.com/NicoMaker/Tombola" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tombola" width="100%">
     </a>
@@ -147,8 +156,8 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href="https://github.com/NicoMaker/PokeApi" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=PokeApi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="PokeApi" width="100%">
+    <a href="https://github.com/NicoMaker/Tetris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tetris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tetris" width="100%">
     </a>
 </div>
 
