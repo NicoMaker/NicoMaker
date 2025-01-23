@@ -101,45 +101,56 @@
 
 ### 🔝 Repository Principali
 
-<div width="100%" align="center">
-    <a href="https://github.com/NicoMaker/Giri-in-bici" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Giri-in-bici&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Giri-in-bici" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Giri-in-bici&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Giri in bici" width="100%">
     </a>
-    <a href="https://github.com/NicoMaker/Pagina_Generale_Siti" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Pagina_Generale_Siti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
-<div width="100%" align="center">
-    <a href="https://github.com/NicoMaker/Multifunzione" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Multifunzione&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <a href="https://github.com/NicoMaker/ConcessionariaApi_BackendCs_FrontEndJs" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=ConcessionariaApi_BackendCs_FrontEndJs&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/NicoMaker/Pagina_Generale_Siti" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Pagina_Generale_Siti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Pagina Generale Siti" width="100%">
     </a>
 </div>
-<div width="100%" align="center">
-    <a href="https://github.com/NicoMaker/Tombola" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Multifunzione" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Multifunzione&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Multifunzione" width="100%">
     </a>
-    <a href="https://github.com/NicoMaker/Tris" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
-<div width="100%" align="center">
-    <a href="https://github.com/NicoMaker/GestionePunteggi" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=GestionePunteggi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <a href="https://github.com/NicoMaker/Lettura_Dati_PC_Windows" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_PC_Windows&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/NicoMaker/ConcessionariaApi_BackendCs_FrontEndJs" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=ConcessionariaApi_BackendCs_FrontEndJs&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Concessionaria API" width="100%">
     </a>
 </div>
-<div width="100%" align="center">
-    <a href="https://github.com/NicoMaker/Lettura_Dati_Raspberry" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_Raspberry&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Tombola" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tombola" width="100%">
     </a>
-    <a href="https://github.com/NicoMaker/Password" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Password&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/NicoMaker/Tris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tris" width="100%">
     </a>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/GestionePunteggi" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=GestionePunteggi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione Punteggi" width="100%">
+    </a>
+    <a href="https://github.com/NicoMaker/Lettura_Dati_PC_Windows" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_PC_Windows&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Lettura Dati PC" width="100%">
+    </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Lettura_Dati_Raspberry" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_Raspberry&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Lettura Dati Raspberry" width="100%">
+    </a>
+    <a href="https://github.com/NicoMaker/Password" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Password&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Password" width="100%">
+    </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/PokeApi" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=PokeApi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="PokeApi" width="100%">
+    </a>
+</div>
+
 <br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br />
