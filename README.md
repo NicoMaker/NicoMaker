@@ -75,11 +75,19 @@
 
 <p align="left">
   <a href="https://github.com/NicoMaker">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+         alt="Top Languages" />
   </a>
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&theme=vision-friendly-dark" alt="Compact Top Languages" width="400" height="200"/>
+<p align="center">
+  <!-- Badge Top Languages -->
+  <a href="https://github.com/NicoMaker">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+         alt="Top Languages" width="450" height="300"/>
+  </a>
+</p>
+
 </p>
 
 ### 📊 Commit e Contributi
@@ -89,7 +97,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="600" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=3b82f6&bg_color=1e293b&hide_border=true" 
+       alt="GitHub Stats" width="600" height="200" />
 </p>
 
 ### 🌐 Link Siti
