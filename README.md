@@ -42,6 +42,12 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   </a>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="36" height="36" alt="Chart.js" />
+</a>
+<a href="https://mermaid-js.github.io/" target="_blank" rel="noreferrer">
+  <img src="https://static.vecteezy.com/system/resources/previews/003/329/709/original/mermaid-logo-icon-design-illustration-vector.jpg" width="36" height="36" alt="Mermaid" />
+</a>
   <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" />
   </a>
@@ -50,7 +56,9 @@
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
-  </a>
+  </a><a href="https://www.mathjax.org/" target="_blank" rel="noreferrer">
+  <img src="https://th.bing.com/th/id/OIP.Aq2YcFqi2adP77Q_An4zIwHaEK?rs=1&pid=ImgDetMain" width="36" height="36" alt="MathJax" />
+</a>
 
 </p>
 
@@ -113,7 +121,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=10b981&bg_color=1e293b&border=0" alt="Profile Views" />
 </p>
-
 
 ### 🐍 Gioco del Serpente
 
