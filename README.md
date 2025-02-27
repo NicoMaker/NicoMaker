@@ -124,7 +124,7 @@
 
 - **[Pagina Generale Siti](https://paginageneralesiti.netlify.app/)**
 - **[Giri in Bici](https://giri-in-bici.netlify.app/)**
-- **[PokeApi](https://pokeapinico.netlify.app/)**
+- **[PokeAPI](https://pokeapinico.netlify.app/)**
 
 ### 👀 Visualizzazioni del Profilo
 
