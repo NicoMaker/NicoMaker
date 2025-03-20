@@ -13,7 +13,7 @@
 
 ### 🌐 Link Siti
 
-- **[Portfoglio](https://nicomaker.netlify.app/)**
+- **[Portfolio](https://nicomaker.netlify.app/)**
 
 ### 📩 Contatti
 
@@ -125,8 +125,8 @@
     <a href="https://github.com/NicoMaker/Tetris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tetris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tetris" width="100%">
     </a>
-    <a href="https://github.com/NicoMaker/Portfoglio" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portfoglio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portfoglio" width="100%">
+    <a href="https://github.com/NicoMaker/Portfolio" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portfolio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portfolio" width="100%">
     </a>
 </div>
 </div>
