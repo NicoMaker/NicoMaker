@@ -13,7 +13,7 @@
 
 ### 🌐 Link Siti
 
-- **[Portfolio](https://nicomaker.netlify.app/)**
+- **[Portfoglio](https://nicomaker.netlify.app/)**
 
 ### 📩 Contatti
 
