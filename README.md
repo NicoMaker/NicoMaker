@@ -11,6 +11,10 @@
   </a>
 </p>
 
+### 🌐 Link Siti
+
+- **[Portfolio](https://nicomaker.netlify.app/)**
+
 ### 📩 Contatti
 
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
@@ -48,13 +52,6 @@
          alt="GitHub Stats" width="600" height="200" />
   </p>
 </div>
-
-### 🌐 Link Siti
-
-- **[Pagina Generale Siti](https://paginageneralesiti.netlify.app/)**
-- **[Giri in Bici](https://giri-in-bici.netlify.app/)**
-- **[PokeAPI](https://pokeapinico.netlify.app/)**
-- **[Portfolio](https://nicomaker.netlify.app/)**
 
 ### 👀 Visualizzazioni del Profilo
 
@@ -128,7 +125,7 @@
     <a href="https://github.com/NicoMaker/Tetris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tetris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tetris" width="100%">
     </a>
-    <a href="https://github.com/NicoMaker/Tetris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+    <a href="https://github.com/NicoMaker/Portfoglio" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portfoglio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portfoglio" width="100%">
     </a>
 </div>
