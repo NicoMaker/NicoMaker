@@ -1,76 +1,5 @@
 # 👋 Ciao! Sono Nicola
 
-### 🚀 Competenze Tecniche
-
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-<a href="https://mermaid-js.github.io/" target="_blank" rel="noreferrer">
-  <img src="https://static.vecteezy.com/system/resources/previews/003/329/709/original/mermaid-logo-icon-design-illustration-vector.jpg" width="36" height="36" alt="Mermaid" />
-</a>
-  </a>
-  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="36" height="36" alt="Chart.js" />
-</a>
-<a href="https://www.mathjax.org/" target="_blank" rel="noreferrer">
-  <img src="https://th.bing.com/th/id/OIP.Aq2YcFqi2adP77Q_An4zIwHaEK?rs=1&pid=ImgDetMain" width="36" height="36" alt="MathJax" />
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" />
-  </a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
-    width="36" height="36" 
-    alt="Docker" 
-  />
-</a>
-
-</a>
-
-</p>
-
 ### 🌐 Social
 
 <p align="left">
@@ -125,6 +54,7 @@
 - **[Pagina Generale Siti](https://paginageneralesiti.netlify.app/)**
 - **[Giri in Bici](https://giri-in-bici.netlify.app/)**
 - **[PokeAPI](https://pokeapinico.netlify.app/)**
+- **[Portfolio](https://nicomaker.netlify.app/)**
 
 ### 👀 Visualizzazioni del Profilo
 
@@ -198,6 +128,10 @@
     <a href="https://github.com/NicoMaker/Tetris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tetris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tetris" width="100%">
     </a>
+    <a href="https://github.com/NicoMaker/Tetris" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portfoglio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portfoglio" width="100%">
+    </a>
+</div>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
