@@ -71,9 +71,7 @@
     <a href="https://github.com/NicoMaker/Giri-in-bici" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Giri-in-bici&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Giri in bici" width="100%">
     </a>
-    <a href="https://github.com/NicoMaker/Pagina_Generale_Siti" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Pagina_Generale_Siti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Pagina Generale Siti" width="100%">
-    </a>
+
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
