@@ -129,6 +129,16 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portfolio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portfolio" width="100%">
     </a>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Tabellone_Serie_A" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tabellone_Serie_A&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabellone_Serie_A" width="100%">
+    </a>
+    <a href="https://github.com/NicoMaker/Milan" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Milan&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Milan" width="100%">
+    </a>
+
+</div>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
