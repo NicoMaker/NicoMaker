@@ -144,6 +144,9 @@
     <a href="https://github.com/NicoMaker/Tabella_Voti" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tabella_Voti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabella_Voti" width="100%">
     </a>
+    <a href="https://github.com/NicoMaker/Cartelle_Tombola" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Cartelle_Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabella_Voti" width="100%">
+    </a>
 
 </div>
 
