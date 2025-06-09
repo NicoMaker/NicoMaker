@@ -145,7 +145,27 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tabella_Voti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabella_Voti" width="100%">
     </a>
     <a href="https://github.com/NicoMaker/Cartelle_Tombola" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Cartelle_Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabella_Voti" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Cartelle_Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Cartelle_Tombola" width="100%">
+    </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Gestione_Anagrafica" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestione_Anagrafica&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione_Anagrafica" width="100%">
+    </a>
+    <a href="https://github.com/NicoMaker/Form_Mail" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Form_Mail&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Form_Mail" width="100%">
+    </a>
+
+</div>
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://github.com/NicoMaker/Form_Telegram" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Form_Telegram&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Form_Telegram" width="100%">
+    </a>
+        <a href="https://github.com/NicoMaker/Mappe_OpenStreet" style="flex: 1 1 45%; max-width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Mappe_OpenStreet&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Mappe_OpenStreet" width="100%">
     </a>
 
 </div>
