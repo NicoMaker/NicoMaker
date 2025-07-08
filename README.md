@@ -1,16 +1,5 @@
 # 👋 Ciao! Sono Nicola
 
-### 🌐 Social
-
-<p align="left">
-  <a href="https://www.github.com/NicoMaker" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.komoot.com/it-it/user/1372754001803" target="_blank" rel="noreferrer">
-    <img src="https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic=w240-h480-rw" width="32" height="32" alt="Komoot" />
-  </a>
-</p>
-
 ### 📩 Contatti
 
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
