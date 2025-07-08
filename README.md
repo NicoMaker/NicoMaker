@@ -11,10 +11,6 @@
   </a>
 </p>
 
-### 🌐 Link Siti
-
-- **[Portfolio](https://nicomaker.netlify.app/)**
-
 ### 📩 Contatti
 
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
