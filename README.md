@@ -1,166 +1,185 @@
 # 👋 Ciao! Sono Nicola
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Appassionato+di+Tecnologia+%F0%9F%92%BB;Sempre+pronto+a+imparare+%F0%9F%93%9A)](https://git.io/typing-svg)
+### 📩 Contatti
 
+- **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
+- **Telefono:** [+39 333 702 4320](tel:+393337024320)
+- **WhatsApp:** [Chatta con me](https://wa.me/393337024320?text=*Info%20da%20Github*)
+
+### 🏆 Badge e Statistiche
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="450" height="300"/>
+</div>
+
+### 📊 Commit e Contributi
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NicoMaker&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Streak Stats" width="800" height="220" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=3b82f6&bg_color=1e293b&hide_border=true" alt="GitHub Stats" width="600" height="200" />
+</div>
+
+### 👀 Visualizzazioni del Profilo
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=10b981&bg_color=1e293b&border=0" alt="Profile Views" />
+</div>
+
+### 🐍 Gioco del Serpente
+
+<div align="center">
+  <img src="Img/github-snake.svg" alt="snake" width="1000" />
+</div>
+
+### 🔝 Repository Principali
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Giri-in-bici">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Giri-in-bici&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Giri in bici">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Pagina_Generale_Siti">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Pagina_Generale_Siti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Pagina Generale Siti">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Multifunzione">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Multifunzione&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Multifunzione">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/ConcessionariaApi_BackendCs_FrontEndJs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=ConcessionariaApi_BackendCs_FrontEndJs&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Concessionaria API">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Concessionaria">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Concessionaria&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Concessionaria">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/PokeApi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=PokeApi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=0" alt="PokeApi">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Tombola">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tombola">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Tris">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tris">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/GestionePunteggi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=GestionePunteggi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione Punteggi">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Lettura_Dati_PC_Windows">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_PC_Windows&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Lettura Dati PC">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Lettura_Dati_Raspberry">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Lettura_Dati_Raspberry&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Lettura Dati Raspberry">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Password">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Password&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Password">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Tetris">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tetris&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tetris">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portfolio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portfolio">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Tabellone_Serie_A">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tabellone_Serie_A&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabellone_Serie_A">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Milan">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Milan&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Milan">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Tabella_Voti">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tabella_Voti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabella_Voti">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Cartelle_Tombola">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Cartelle_Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Cartelle_Tombola">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Gestione_Anagrafica">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestione_Anagrafica&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione_Anagrafica">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Form_Mail">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Form_Mail&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Form_Mail">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Form_Telegram">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Form_Telegram&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Form_Telegram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Mappe_OpenStreet">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Mappe_OpenStreet&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Mappe_OpenStreet">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🌟 Chi Sono
-
-Sviluppatore appassionato con una forte dedizione per la creazione di soluzioni innovative. Amo esplorare nuove tecnologie e trasformare idee in realtà digitali.
-
----
-
-## 📬 Connettiti con Me
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=black&labelColor=white)](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)  
-📧 **Nicola.marano02@gmail.com** &nbsp;&nbsp;&nbsp;
-[![Phone](https://img.shields.io/badge/Phone-black?style=flat-square&logo=whatsapp&logoColor=black&labelColor=white)](tel:+393337024320)  
-📞 **+39 333 702 4320** &nbsp;&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=flat-square&logo=whatsapp&logoColor=black&labelColor=white)](https://wa.me/393337024320?text=*Info%20da%20Github*)  
-💬 **[Chat WhatsApp](https://wa.me/393337024320)**
-
-</div>
-
-
----
-
-## 📊 Le Mie Statistiche
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMaker&theme=radical&hide_border=true&background=0D1117&stroke=10B981&ring=58A6FF&fire=FF6B6B&currStreakLabel=10B981" width="48%" />
-  
-</div>
-
----
-
-## 🛠️ Linguaggi e Tecnologie
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=25" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=25" width="48%" />
-
-</div>
-
----
-
-## 🎯 Attività Recente
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=NicoMaker&theme=radical&hide_border=true&background=0D1117&stroke=10B981&ring=58A6FF&fire=FF6B6B&currStreakLabel=10B981&sideLabels=C9D1D9&dates=C9D1D9" width="70%" />
-  
-</div>
-
----
-
-## 🐍 Contributi Animati
-
-<div align="center">
-  
-  <img src="Img/github-snake.svg" alt="Snake animation" width="100%" />
-  
-</div>
-
----
-
-## 🚀 Progetti in Evidenza
-
-<div align="center">
-
-### 🎯 Applicazioni Web & Mobile
-
-| Progetto                                                                     | Tecnologie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Descrizione                        |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [🚴‍♂️ Giri in Bici](https://github.com/NicoMaker/Giri-in-bici)                 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                                                                                                                                                                                              | Mio Sito Giri in Bici              |
-| [🌐 Pagina Generale Siti](https://github.com/NicoMaker/Pagina_Generale_Siti) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                                                                                                                                                                                              | Hub centralizzato per progetti web |
-| [⚡ Multifunzione](https://github.com/NicoMaker/Multifunzione)               | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Applicazione desktop multifunzione |
-
-### 🏪 Gestione Aziendale
-
-| Progetto                                                                                     | Tecnologie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Descrizione                             |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [🚗 Concessionaria API](https://github.com/NicoMaker/ConcessionariaApi_BackendCs_FrontEndJs) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Sistema completo con backend e frontend |
-| [🏬 Concessionaria](https://github.com/NicoMaker/Concessionaria)                             | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                        | Gestione vendite veicoli                |
-| [👥 Gestione Anagrafica](https://github.com/NicoMaker/Gestione_Anagrafica)                   | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                                                                                                                                                                                                                                                                                                  | Sistema di gestione contatti            |
-
-### 🎮 Giochi & Intrattenimento
-
-| Progetto                                                             | Tecnologie                                                                                                                                                                                                                                                                                         | Descrizione                   |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [🧩 Tetris](https://github.com/NicoMaker/Tetris)                     | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)                                                                                                       | Classico gioco dei mattoncini |
-| [🎯 Tris](https://github.com/NicoMaker/Triss)                        | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)                                                                                                       | Classico gioco del tris       |
-| [🎲 Tombola](https://github.com/NicoMaker/Tombola)                   | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)                                                                                                     | Gioco della tombola           |
-| [🎫 Cartelle Tombola](https://github.com/NicoMaker/Cartelle_Tombola) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Generatore di cartelle        |
-
-### 🏆 Sport & Punteggi
-
-| Progetto                                                               | Tecnologie                                                                                                                                                                                                                                                                                         | Descrizione                       |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [⚽ AC Milan](https://github.com/NicoMaker/Milan)                      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Sito dedicato al Milan            |
-| [🏆 Tabellone Serie A](https://github.com/NicoMaker/Tabellone_Serie_A) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Classifica Serie A in tempo reale |
-| [📈 Gestione Punteggi](https://github.com/NicoMaker/GestionePunteggi)  | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)                                                                                                       | Sistema di tracking punteggi      |
-| [📊 Tabella Voti](https://github.com/NicoMaker/Tabella_Voti)           | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Gestione valutazioni              |
-
-### 🔧 Utilità & Strumenti
-
-| Progetto                                                                         | Tecnologie                                                                                                                                                                                                                                                                                                                                                                                                | Descrizione                    |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| [🔒 Password](https://github.com/NicoMaker/Password)                             | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)                                                                                                                                                                                                               | Generatore di password sicure  |
-| [🖥️ Lettura Dati PC](https://github.com/NicoMaker/Lettura_Dati_PC_Windows)       | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)                                                                                                                                                                                                              | Monitor sistema Windows        |
-| [🥧 Lettura Dati Raspberry](https://github.com/NicoMaker/Lettura_Dati_Raspberry) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)                                                                                                             | Monitor Raspberry Pi           |
-| [🗺️ Mappe OpenStreet](https://github.com/NicoMaker/Mappe_OpenStreet)             | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) | Integrazione mappe interattive |
-
-### 📱 API & Comunicazione
-
-| Progetto                                                       | Tecnologie                                                                                                                                                                                                                                                                                                                                                                                                  | Descrizione            |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [🐛 PokéAPI](https://github.com/NicoMaker/PokeApi)             | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white)      | Pokedex interattivo    |
-| [📧 Form Mail](https://github.com/NicoMaker/Form_Mail)         | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                                                                                                          | Sistema invio email    |
-| [💬 Form Telegram](https://github.com/NicoMaker/Form_Telegram) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | Bot Telegram integrato |
-
-### 💼 Portfolio
-
-| Progetto                                               | Tecnologie                                                                                                                                                                                                                                                                                         | Descrizione        |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [🌟 Portfolio](https://github.com/NicoMaker/Portfolio) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Showcase personale |
-
-</div>
-
----
-
-## 👁️ Visualizzazioni Profilo
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=000000&labelColor=10B981&label=VISUALIZZAZIONI+PROFILO" alt="Visualizzazioni Profilo"/>
-
-</div>
-
----
-
-## 🎨 Contributi GitHub
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoMaker&bg_color=0d1117&color=10b981&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 "Il codice è poesia, l'algoritmo è arte"
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer&text=Grazie%20per%20la%20visita!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
-  
+  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
 </div>
