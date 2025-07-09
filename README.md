@@ -15,14 +15,17 @@ Sviluppatore appassionato con una forte dedizione per la creazione di soluzioni 
 ---
 
 ## 📬 Connettiti con Me
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black&labelColor=white)](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
-[![Phone](https://img.shields.io/badge/Phone-white?style=flat-square&logo=whatsapp&logoColor=black&labelColor=white)](tel:+393337024320)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=flat-square&logo=whatsapp&logoColor=black&labelColor=white)](https://wa.me/393337024320?text=*Info%20da%20Github*)
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=black&labelColor=white)](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)  
+📧 **Nicola.marano02@gmail.com** &nbsp;&nbsp;&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-black?style=flat-square&logo=whatsapp&logoColor=black&labelColor=white)](tel:+393337024320)  
+📞 **+39 333 702 4320** &nbsp;&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=flat-square&logo=whatsapp&logoColor=black&labelColor=white)](https://wa.me/393337024320?text=*Info%20da%20Github*)  
+💬 **[Chat WhatsApp](https://wa.me/393337024320)**
 
 </div>
+
 
 ---
 
