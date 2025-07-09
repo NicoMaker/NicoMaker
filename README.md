@@ -29,8 +29,8 @@
 ### 👀 Visualizzazioni del Profilo
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=10b981&bg_color=1e293b&border=0" alt="Profile Views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=NicoMaker&style=for-the-badge&color=000000&bg_color=10b981&label_color=ffffff&border=0" alt="Profile Views" /
+>
 
 ### 🐍 Gioco del Serpente
 
