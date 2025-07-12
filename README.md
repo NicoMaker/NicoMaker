@@ -22,6 +22,8 @@
   <img src="https://streak-stats.demolab.com?user=NicoMaker&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Streak Stats" width="800" height="220" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicoMaker&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=3b82f6&bg_color=1e293b&hide_border=true" alt="GitHub Stats" width="600" height="200" />
 </div>
