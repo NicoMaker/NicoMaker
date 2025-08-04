@@ -176,6 +176,42 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Gestione_Ore">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestione_Ore&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione_Ore">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Cloud">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Cloud&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Cloud">
+        </a>
+      </td>
+    </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Visualizzazione_File_System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Visualizzazione_File_System&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Visualizzazione_File_System">
+      </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Scaricamento_Mail">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Scaricamento_Mail&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Scaricamento_Mail">
+        </a>
+      </td>
+    </tr>
+     <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Calcolo_km_auto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Calcolo_km_auto&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Calcolo_km_auto">
+      </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Portale_H_ITS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portale_H_ITS&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portale_H_ITS">
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
