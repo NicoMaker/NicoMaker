@@ -146,11 +146,11 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Tabella_Voti&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Tabella_Voti">
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/NicoMaker/Cartelle_Tombola">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Cartelle_Tombola&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Cartelle_Tombola">
-        </a>
-      </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Risultati_Serie_A">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Risultati_Serie_A&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Risultati_Serie_A">
+      </a>
+    </td>
     </tr>
     <tr>
       <td align="center">
@@ -211,13 +211,6 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Portale_H_ITS&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Portale_H_ITS">
         </a>
       </td>
-    </tr>
-    <tr>
-    <td align="center">
-      <a href="https://github.com/NicoMaker/Risultati_Serie_A">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Risultati_Serie_A&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Risultati_Serie_A">
-      </a>
-    </td>
     </tr>
   </table>
 </div>
