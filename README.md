@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Nicola dj
+# 👋 Ciao! Sono Nicola
 
 ### 📩 Contatti
 
