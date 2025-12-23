@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Nicola
+# 👋 Ciao! Sono Nicola (Nico Maker)
 
 ### 📩 Contatti
 
