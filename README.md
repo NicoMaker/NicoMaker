@@ -212,6 +212,37 @@
         </a>
       </td>
     </tr>
+     <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestione_Magazzino">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestione_Magazzino&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione_Magazzino">
+      </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/New_Year">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=New_Year&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="New_Year">
+        </a>
+      </td>
+    </tr>
+     <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Merry_Christmas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Merry_Christmas&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Merry_Christmas">
+      </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/NicoMaker/Happy_Easter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Happy_Easter&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Happy_Easter">
+        </a>
+      </td>
+    </tr>
+     <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Summer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Summer&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Summer">
+      </a>
+    </td>
+    </tr>
   </table>
 </div>
 
