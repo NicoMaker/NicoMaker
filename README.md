@@ -242,6 +242,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Summer&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Summer">
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Happy_Birthday">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Happy_Birthday&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Happy_Birthday">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
