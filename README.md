@@ -248,6 +248,13 @@
       </a>
     </td>
     </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestione_Preventivi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestione_Preventivi&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestione_Preventivi">
+      </a>
+    </td>
+    </tr>
   </table>
 </div>
 
