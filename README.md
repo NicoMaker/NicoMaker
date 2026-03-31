@@ -266,6 +266,18 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=MilanoCortina2026_Medals&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="MilanoCortina2026_Medals">
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/NicoMaker/Estrazioni_Squadre_Fantamundial_2026">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Estrazioni_Squadre_Fantamundial_2026&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Estrazioni_Squadre_Fantamundial_2026">
+      </a>
+    </td>
+    </tr>
+        <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Linea_del_Tempo ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Linea_del_Tempo &title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Linea_del_Tempo ">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
