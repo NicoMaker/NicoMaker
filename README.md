@@ -6,7 +6,7 @@
 - **Telefono:** [+39 333 702 4320](tel:+393337024320)
 - **WhatsApp:** [Chatta con me](https://wa.me/393337024320?text=*Info%20da%20Github*)
 
-### 🏆 Badge e Statistiche
+### 🏆 Badge & Statistiche
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMaker&langs_count=20&layout=compact&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="450" height="300"/>
 </div>
 
-### 📊 Commit e Contributi
+### 📊 Commit & Contributi
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NicoMaker&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Streak Stats" width="800" height="220" />
