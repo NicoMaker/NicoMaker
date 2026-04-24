@@ -278,6 +278,18 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Linea_del_Tempo&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Linea_del_Tempo">
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestionale-Fiscale">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale-Fiscale&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale-Fiscale">
+      </a>
+    </td>
+    </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Test_ride">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Test_ride&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Test_ride">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
