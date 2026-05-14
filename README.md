@@ -290,6 +290,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Test_ride&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Test_ride">
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Prenotazione_guida_sicura">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Prenotazione_guida_sicura&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Prenotazione_guida_sicura">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
