@@ -7,6 +7,7 @@
 - **WhatsApp:** [Chatta con me](https://wa.me/393337024320?text=*Info%20da%20Github*)
 - **link sito personale**: [https://nicomaker.netlify.app/](https://nicomaker.netlify.app/)
 
+
 ### 🏆 Badge & Statistiche
 
 <div align="center">
