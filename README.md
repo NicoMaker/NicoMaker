@@ -2,7 +2,7 @@
 
 
 
-### 📩 Contatti
+### 📩 Contatti 
 
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
 - **Telefono:** [+39 333 702 4320](tel:+393337024320)
