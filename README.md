@@ -300,6 +300,24 @@
       </a>
     </td>
     </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/gestionale-magazzino-vendite">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=gestionale-magazzino-vendite&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="gestionale-magazzino-vendite">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestionale_Auto_Concessionaria">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Auto_Concessionaria&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Auto_Concessionaria">
+      </a>
+    </td>
+    </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Listone_Giocatori_SerieA_2026-2027">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Listone_Giocatori_SerieA_2026-2027&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Listone_Giocatori_SerieA_2026-2027">
+      </a>
+    </td>
   </table>
 </div>
 
