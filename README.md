@@ -1,14 +1,11 @@
-# 👋 Ciao! Sono Nicola (Nico Maker)   
+# 👋 Ciao! Sono Nicola (Nico Maker)
 
-
-
-### 📩 Contatti   
+### 📩 Contatti
 
 - **Email:** [Nicola.marano02@gmail.com](mailto:Nicola.marano02@gmail.com?subject=Info%20da%20Github)
 - **Telefono:** [+39 333 702 4320](tel:+393337024320)
 - **WhatsApp:** [Chatta con me](https://wa.me/393337024320?text=*Info%20da%20Github*)
 - **link sito personale**: [https://nicomaker.netlify.app/](https://nicomaker.netlify.app/)
-
 
 ### 🏆 Badge & Statistiche
 
@@ -323,6 +320,19 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Ciclismo&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Ciclismo">
       </a>
     </td>
+    </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestionale_Ciclismo_Angular">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Ciclismo_Angular&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Ciclismo_Angular">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Giri_in_Bici_Angular">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Giri_in_Bici_Angular&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Giri_in_Bici_Angular">
+      </a>
+    </td>
+    </tr>
   </table>
 </div>
 
