@@ -339,6 +339,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Ufficio&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Ufficio">
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Finanza_e_Statistica">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Finanza_e_Statistica&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Finanza_e_Statistica">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
