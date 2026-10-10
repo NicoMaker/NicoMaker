@@ -345,6 +345,13 @@
       </a>
     </td>
     </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestionale_Magazzino_Angular">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Magazzino_Angular&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Magazzino_Angular">
+      </a>
+    </td>
+    </tr>
   </table>
 </div>
 
