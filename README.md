@@ -363,6 +363,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Report_MotoGP_2026&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Report_MotoGP_2026">
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Gestionale_Fiscale_Angular">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Fiscale_Angular&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Fiscale_Angular">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
