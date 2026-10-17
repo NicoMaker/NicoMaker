@@ -368,6 +368,12 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Gestionale_Fiscale_Angular&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Gestionale_Fiscale_Angular">
       </a>
     </td>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/gestionale-bilanci">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=gestionale-bilanci&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="gestionale-bilanci">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
