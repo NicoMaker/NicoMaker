@@ -374,6 +374,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=gestionale-bilanci&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="gestionale-bilanci">
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoMaker/Visualizzazione-schermo-cliente-da-server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoMaker&repo=Visualizzazione-schermo-cliente-da-server&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Visualizzazione-schermo-cliente-da-server">
+      </a>
+    </td>
     </tr>
   </table>
 </div>
